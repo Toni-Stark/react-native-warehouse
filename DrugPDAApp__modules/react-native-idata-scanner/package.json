@@ -1,0 +1,67 @@
+{
+  "_from": "react-native-idata-scanner",
+  "_id": "react-native-idata-scanner@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-p6OCF/hdRoR/R6c+D2W4Nkk/jqYzVBIooLCSqOIy+RYs/2tQfQrXZrQaYigy6wHjeXpNbU0tTfSRSBD9Xqm4gQ==",
+  "_location": "/react-native-idata-scanner",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-idata-scanner",
+    "name": "react-native-idata-scanner",
+    "escapedName": "react-native-idata-scanner",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-idata-scanner/-/react-native-idata-scanner-1.0.0.tgz",
+  "_shasum": "27a0cd1a65b36db93554fca3c012e373fa6164da",
+  "_spec": "react-native-idata-scanner",
+  "_where": "F:\\chemist",
+  "author": {
+    "name": "yhostc",
+    "email": "yhostc@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/yhostc/react-native-idata-scanner/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "React native implementation of Android handheld PDA terminal based on iData 95w series",
+  "devDependencies": {
+    "react": "^16.9.0",
+    "react-native": "^0.61.5"
+  },
+  "files": [
+    "README.md",
+    "android",
+    "index.js"
+  ],
+  "homepage": "https://github.com/yhostc/react-native-idata-scanner#readme",
+  "keywords": [
+    "react-native"
+  ],
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "main": "index.js",
+  "name": "react-native-idata-scanner",
+  "peerDependencies": {
+    "react": ">=16.8.1",
+    "react-native": ">=0.60.0-rc.0 <1.0.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yhostc/react-native-idata-scanner.git",
+    "baseUrl": "https://github.com/yhostc/react-native-idata-scanner"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "title": "React Native Idata Scanner",
+  "version": "1.0.0"
+}
